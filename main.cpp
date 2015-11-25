@@ -44,8 +44,8 @@ void DisplayMenu()
 	{
 	case 1: ChangeBackground(); break;
 	case 2: Calculate();        break;
-	case 3:	Editor();		    break;
-	case 4:					    break;
+	case 3:	Editor();	    break;
+	case 4:			    break;
 	}
 }
 
